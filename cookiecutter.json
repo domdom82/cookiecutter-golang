@@ -1,9 +1,9 @@
 {
-    "full_name": "Luis Morales",
-    "github_username": "lacion",
+    "full_name": "Dominik Froehlich",
+    "github_username": "domdom82",
     "app_name": "mygolangproject",
     "project_short_description": "A Golang project.",
-    "docker_hub_username": "lacion",
+    "docker_hub_username": "domdom82",
     "docker_image": "lacion/alpine-base-image:latest",
     "docker_build_image": "lacion/alpine-golang-buildimage",
     "docker_build_image_version": ["1.13", "1.12.9", "1.11.9"],
